@@ -1,0 +1,23 @@
+<p>{{ tipoPersona === 'alumno' ? 'Este es el formulario para Alumnos' : 'Este es el formulario para Profesores' }}</p>
+
+
+<div style="display: flex; gap: 10px;">
+    <form [formGroup]="formPerson">
+
+            <input pInputText pKeyFilter="string" formControlName="nombre" placeholder="Nombre" style="margin:5px"/>
+            <input pInputText pKeyFilter="string" formControlName="apellido" placeholder="Apellido" style="margin:5px"/>
+            <input pInputText pKeyFilter="int" formControlName="dni" placeholder="DNI"style="margin:5px"/>
+            
+            <!-- Campo de Fecha de Nacimiento solo visible para Alumnos -->
+            <div>
+                <p-calendar  *ngIf="tipoPersona === 'alumno'"  formControlName="fechaNacimiento"  placeholder="Fecha de Nacimiento"></p-calendar>
+            </div>
+            <!-- Campo de Especialidad solo visible para Profesores -->
+            <input *ngIf="tipoPersona === 'profesor'" pInputText pKeyFilter="string" formControlName="especialidad" style="margin:5px" placeholder="Especialidad"/>
+            
+            <div style="margin:5px">
+                <p-button label="Crear" severity="secondary"  (onClick)="sendPerson(tipoPersona!)"></p-button>
+            </div>
+            
+    </form>
+</div>

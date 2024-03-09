@@ -1,0 +1,13 @@
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\bin\Debug\net8.0\EvoltisPruebaTecnica.Model.deps.json
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\bin\Debug\net8.0\EvoltisPruebaTecnica.Model.dll
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\bin\Debug\net8.0\EvoltisPruebaTecnica.Model.pdb
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\obj\Debug\net8.0\EvoltisPruebaTecnica.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\obj\Debug\net8.0\EvoltisPruebaTecnica.Model.AssemblyInfoInputs.cache
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\obj\Debug\net8.0\EvoltisPruebaTecnica.Model.AssemblyInfo.cs
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\obj\Debug\net8.0\EvoltisPruebaTecnica.Model.csproj.CoreCompileInputs.cache
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\obj\Debug\net8.0\EvoltisPruebaTecnica.Model.sourcelink.json
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\obj\Debug\net8.0\EvoltisPruebaTecnica.Model.dll
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\obj\Debug\net8.0\refint\EvoltisPruebaTecnica.Model.dll
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\obj\Debug\net8.0\EvoltisPruebaTecnica.Model.pdb
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\obj\Debug\net8.0\ref\EvoltisPruebaTecnica.Model.dll
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Model\obj\Debug\net8.0\EvoltisPruebaTecnica.Model.csproj.AssemblyReference.cache

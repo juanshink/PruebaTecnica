@@ -1,0 +1,34 @@
+<p-card>
+    <div style="display: flex; justify-content:center">
+        <h1>Prueba Tecnica EVOLTIS</h1>
+    </div>
+  <p-messages class="notificaciones"></p-messages>
+    <p-tabView (onChange)="onTabChange($event)">
+        <p-tabPanel header="Alumno">
+            <div style="width: 100%;">
+                <p-card>
+                    <app-form-person [tipoPersona]="'alumno'" #alumnoForm></app-form-person>
+                </p-card>
+                <p-card>
+                    <app-data-table [tipoDato]="'Alumno'"></app-data-table>
+                </p-card>
+            </div>
+        </p-tabPanel>
+        <p-tabPanel  header="Profesor">
+            <p-card>
+                <app-form-person [tipoPersona]="'profesor'" #profesorForm></app-form-person>
+            </p-card>
+            <p-card>
+                <app-data-table [tipoDato]="'Profesor'"></app-data-table>
+            </p-card>
+        </p-tabPanel>
+        <p-tabPanel header="Materia">
+            <p-card>
+                <app-form-materia></app-form-materia>
+            </p-card>
+            <p-card>
+                <app-data-table [tipoDato]="'Materia'"></app-data-table>
+            </p-card>
+        </p-tabPanel>
+    </p-tabView>
+</p-card>

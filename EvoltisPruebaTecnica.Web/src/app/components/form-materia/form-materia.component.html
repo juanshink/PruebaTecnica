@@ -1,0 +1,11 @@
+  <p>Este es el formulario para Materias</p>
+    <form class="form"  [formGroup]="formSubject">
+        <input pInputText pKeyFilter="string" formControlName="nombre" style="margin:5px" placeholder="Nombre"/>
+        <div style="margin:5px">
+            <p-dropdown [options]="periodos"
+        [showClear]="true" placeholder="Selecciona un periodo" formControlName="periodo"></p-dropdown>   
+        </div>
+        <div style="margin:5px">
+            <p-button label="Crear" severity="secondary" (click)="submitForm()"></p-button>
+        </div>
+    </form>

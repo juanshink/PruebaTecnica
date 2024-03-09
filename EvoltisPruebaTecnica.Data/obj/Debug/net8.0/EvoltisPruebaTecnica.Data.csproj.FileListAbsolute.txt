@@ -1,0 +1,16 @@
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\EvoltisPruebaTecnica.Data.csproj.AssemblyReference.cache
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\EvoltisPruebaTecnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\EvoltisPruebaTecnica.Data.AssemblyInfoInputs.cache
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\EvoltisPruebaTecnica.Data.AssemblyInfo.cs
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\EvoltisPruebaTecnica.Data.csproj.CoreCompileInputs.cache
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\EvoltisPruebaTecnica.Data.sourcelink.json
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\bin\Debug\net8.0\EvoltisPruebaTecnica.Data.deps.json
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\bin\Debug\net8.0\EvoltisPruebaTecnica.Data.dll
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\bin\Debug\net8.0\EvoltisPruebaTecnica.Data.pdb
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\bin\Debug\net8.0\EvoltisPruebaTecnica.Model.dll
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\bin\Debug\net8.0\EvoltisPruebaTecnica.Model.pdb
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\EvoltisPruebaTecnica.Data.csproj.CopyComplete
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\EvoltisPruebaTecnica.Data.dll
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\refint\EvoltisPruebaTecnica.Data.dll
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\EvoltisPruebaTecnica.Data.pdb
+C:\Users\juans\OneDrive\Escritorio\Prueba tecnica EVOLTIS\EvoltisPruebaTecnica\EvoltisPruebaTecnica.Data\obj\Debug\net8.0\ref\EvoltisPruebaTecnica.Data.dll
